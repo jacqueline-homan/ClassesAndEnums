@@ -1,0 +1,5 @@
+/home/jacqueline/F-sharp/Enumerators/Enumerators/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/Enumerators/Enumerators/bin/Debug/Enumerators.exe.mdb
+/home/jacqueline/F-sharp/Enumerators/Enumerators/bin/Debug/Enumerators.exe
+/home/jacqueline/F-sharp/Enumerators/Enumerators/obj/x86/Debug/Enumerators.exe
+/home/jacqueline/F-sharp/Enumerators/Enumerators/obj/x86/Debug/Enumerators.exe.mdb
