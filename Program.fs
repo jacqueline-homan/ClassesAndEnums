@@ -2,6 +2,12 @@
 // See the 'F# Tutorial' project for more help.
 printfn "Welcome to my Ford Fanatics App for Simple Classes and Enumerators"
 printfn "==================================================================="
+// An Enumerator in F# is translated into a standard .NET Enum
+//It is important to declare a type that is an Enum with all
+//the values explicitly assigned to the individual types derived
+//from the Enum. If you DON'T do this, that type would exist as
+//a Discriminated Union instead.
+//Below is an Enum: CarType.
 type CarType =
     | Tricar = 0
     | FourWheeler = 1
